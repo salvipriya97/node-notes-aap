@@ -1,0 +1,2 @@
+This is the file created by Node.js
+This is the appended message
